@@ -1,0 +1,32 @@
+{
+    "name": "imagine-in",
+    "version": "1.0.0",
+    "description": "A simple package for when you need a little help expressing yourself.",
+    "main": "dist/index.js",
+    "types": "dist/",
+    "scripts": {
+        "test": "jest",
+        "build": ""
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JaimeGensler/imagine-in.git"
+    },
+    "keywords": [
+        "imagine",
+        "in",
+        "2020"
+    ],
+    "author": "Jaime Gensler",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/JaimeGensler/imagine-in/issues"
+    },
+    "homepage": "https://github.com/JaimeGensler/imagine-in#readme",
+    "devDependencies": {
+        "@types/jest": "^26.0.9",
+        "jest": "^26.4.0",
+        "ts-jest": "^26.2.0",
+        "typescript": "^3.9.7"
+    }
+}
