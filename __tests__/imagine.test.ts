@@ -1,4 +1,4 @@
-import imagine from '..';
+import imagine from '../src';
 
 describe('imagine()', () => {
     describe('<string>', () => {
