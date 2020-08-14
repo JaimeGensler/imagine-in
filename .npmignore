@@ -1,0 +1,8 @@
+# Directories
+__tests__/
+src/
+
+# Config
+.prettierrc
+jest.config.js
+tsconfig.json

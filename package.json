@@ -1,6 +1,6 @@
 {
     "name": "imagine-in",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A simple package for when you need a little help expressing yourself.",
     "main": "dist/index.js",
     "types": "dist/",
